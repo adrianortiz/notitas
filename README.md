@@ -1,2 +1,2 @@
 # notitas
-Building a REST API with Soring Boot
+Building a REST API with Spring Boot
